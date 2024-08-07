@@ -1,6 +1,5 @@
-# app_flutter_demo
+# App flutter Ai Assistant
 
-A new Flutter project.
 
 ## Getting Started
 
